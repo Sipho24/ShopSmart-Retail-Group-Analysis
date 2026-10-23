@@ -1,3 +1,3 @@
 # ShopSmart-Retail-Group-Analysis
-Build interactive dashboards, analyze sales performance, and generate actionable business insights.
-Here, I have looked at multidata and cleaned it. Used formulas and functions to calculate and retrieve information. I also have created chats and pivots to create a dashboard
+ShopSmart Retail Ltd. operates as a multiple retail stores across Nigeria. The company sells thousands of
+products across different categories and receives orders from thousands of customers every month. The management noticed fluctuations in sales, inventory shortages, and increasing product returns. My role here is a Junior Data Analyse was to gather their data, understand it, clean and prepare then create a dashboard to analyze the data to provide insights on what is happening and provide actionable recommendations for better business performance. 
